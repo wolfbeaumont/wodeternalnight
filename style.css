@@ -11,7 +11,7 @@ body {
  font: normal normal normal 12px 'Open Sans', sans-serif;
  color: #ccc;
  background-color: #010101;
- background-image: url(https://www.wodeternalnight.wiki/background.jpg);
+ background-image: url("https://www.wodeternalnight.wiki/background.jpg");
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-position: center;
@@ -893,14 +893,14 @@ button {
 
 @font-face {
  font-family: 'MedusaGothic_D';
- src: url('https://files.jcink.net/uploads2/wodeternalnight/fonts/MedusaGothic_D.ttf');
+ src: url('https://www.wodeternalnight.wiki/MedusaGothic_D.ttf');
  font-weight: normal;
  font-style: normal;
 }
 
 @font-face {
  font-family: 'Railway_To_Hells';
- src: url('https://files.jcink.net/uploads2/wodeternalnight/fonts/Railway_To_Hells.ttf');
+ src: url('https://www.wodeternalnight.wiki/Railway_To_Hells.ttf');
  font-weight: normal;
  font-style: normal;
 }
