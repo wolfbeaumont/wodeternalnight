@@ -1,1 +1,17 @@
-background: #fff url(https://www.wodeternalnight.wiki/background.jpg) center center/cover no-repeat;
+
+color: #000000;
+opacity: 0.5;
+
+body {
+  background: #fff url(https://www.wodeternalnight.wiki/background.jpg) center center/cover no-repeat;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
