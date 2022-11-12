@@ -8,13 +8,14 @@ html {
 }
 
 body {
-     background: #fff url(https://www.wodeternalnight.wiki/background.jpg) center center/cover no-repeat;
-     color: #666666;
-     font-size: 14px;
-     font-family:Open Sans;
-     line-height: 1.80857;
-     font-weight: normal;
-     overflow-x: hidden;
+ font: normal normal normal 12px 'Open Sans', sans-serif;
+ color: #ccc;
+ background-color: #010101;
+ background-image: url(https://www.wodeternalnight.wiki/background.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
 }
 
 a {
