@@ -30,7 +30,7 @@ color: #ccc;
 
 #wrapper {
 text-align: left;
-width: 100px;
+width: 900px;
 margin: 50px auto 20px;
 padding-bottom: 5px;
 }
@@ -1138,7 +1138,7 @@ CUSTOM INDEX
 -----------------------------------------------*/
 
 .lbl-idx-con {
-width: 900px;
+width: 100px;
 height: 115px;
 margin: 0 auto 5px;
 position: relative;
