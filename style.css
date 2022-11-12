@@ -1728,15 +1728,15 @@ FONT KIT
 -----------------------------------------------*/
 
 @font-face {
-font-family: 'MedusaGothic_D';
-src: url('/MedusaGothic_D.ttf');
+font-family: "MedusaGothic_D";
+src: url("/MedusaGothic_D.ttf");
 font-weight: normal;
 font-style: normal;
 }
 
 @font-face {
-font-family: 'Railway_To_Hells';
-src: url('/Railway_To_Hells.ttf');
+font-family: "Railway_To_Hells";
+src: url("/Railway_To_Hells.ttf");
 font-weight: normal;
 font-style: normal;
 }
