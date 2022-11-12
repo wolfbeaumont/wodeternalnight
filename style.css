@@ -1332,7 +1332,7 @@ display: block;
 height: 1px;
 position: absolute;
 top: 50%;
-width: 100%;
+width: 50%;
 opacity: 0.15;
 }
 
@@ -1399,7 +1399,7 @@ display: block;
 height: 1px;
 position: absolute;
 top: 50%;
-width: 100%;
+width: 50%;
 opacity: 0.15;
 }
 
@@ -1644,7 +1644,7 @@ display: block;
 height: 1px;
 position: absolute;
 top: 50%;
-width: 100%;
+width: 50%;
 opacity: 0.15;
 }
 
