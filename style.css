@@ -710,7 +710,7 @@ TABLES AND DIV BORDERS
 .tableborder { padding: 0; margin: 0; }
 .tablefill { background: rgba(204, 204, 204, .1); border: 1px solid rgba(238, 238, 238, .15); padding: 6px; }
 .tablepad { background: rgba(204, 204, 204, .1); padding: 6px; }
-.tablebasic { width: 100%; padding: 0; margin: 0; border: 0; }
+.tablebasic { width: 50%; padding: 0; margin: 0; border: 0; }
 .plainborder { border: 1px solid rgba(238, 238, 238, .15); background: rgba(204, 204, 204, .1); }
 
 /*----------------------------------------------- *
