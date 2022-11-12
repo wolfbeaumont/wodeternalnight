@@ -1729,14 +1729,14 @@ FONT KIT
 
 @font-face {
 font-family: 'MedusaGothic_D';
-src: url('https://www.wodeternalnight.wiki/MedusaGothic_D.ttf');
+src: url('MedusaGothic_D.ttf');
 font-weight: normal;
 font-style: normal;
 }
 
 @font-face {
 font-family: 'Railway_To_Hells';
-src: url('https://www.wodeternalnight.wiki/Railway_To_Hells.ttf');
+src: url('Railway_To_Hells.ttf');
 font-weight: normal;
 font-style: normal;
 }
