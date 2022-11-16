@@ -41,3 +41,149 @@ cursor: pointer;
 -o-transition: 1.25s;
 transition: 1.25s;
 }
+
+/*----------------------------------------------- *
+PAGINATION
+-----------------------------------------------*/
+
+.pagination .pagination_current,
+.pagination a { padding: 2px 5px; }
+
+.pagination a:link,
+.pagination a:visited,
+.pagination a:active {
+padding: 1px 6px;
+color: #9f494d;
+text-decoration: none;
+font-weight: bold;
+font-size: 1.5em;
+}
+
+.pagination a:hover {
+background: #ccc;
+text-decoration: none;
+color: #ff9c61;
+}
+
+.pagination .pagination_current {
+padding: 0 6px 3px;
+color: #ff9c61;
+font-weight: bold;
+font-size: 1.5em;
+}
+
+.pagination_first,
+.pagination_last,
+.pagination_page {} .pagination_pagetxt {
+display: none;
+}
+
+/*----------------------------------------------- *
+GLOBAL GENERAL TABLE/DIV ROW STYLES
+-----------------------------------------------*/
+
+.row1, .row3, .row4, .row2 { padding: 5px; text-transform: uppercase; }
+#boardstats .row2 { text-align: center; }
+.darkrow1 { background: #000000; color: #ccc; }
+.darkrow2 { background: #000000; color: #ccc; }
+td.darkrow2 { display: none; }
+.darkrow3 { background: rgba(204, 204, 204, .1); color: #ccc; padding: 3px; }
+.hlight { background: rgba(204, 204, 204, .1); }
+.dlight { background: rgba(204, 204, 204, .1); }
+
+/*----------------------------------------------- *
+TOP TABLE BARS AND GRADIENT HOLDERS
+-----------------------------------------------*/
+
+.maintitle {
+position: relative;
+font-size: 2em;
+padding: 10px 0 10px 10px;
+font-family: 'MedusaGothic_D';
+color: #ccc;
+letter-spacing: -2px;
+}
+
+.maintitle a:link,
+.maintitle a:visited,
+.maintitle a:active {
+color: #ccc;
+text-decoration: none;
+-webkit-transition: 1.25s;
+-moz-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
+
+.maintitle a:hover {
+text-decoration: none;
+color: #9f494d;
+-webkit-transition: 1.25s;
+-moz-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
+
+.lbl-ctgryhdr {
+position: relative;
+background: transparent;
+border-style: groove;
+font-size: 1.5em;
+padding: 20px;
+-webkit-text-stroke: 1px #dddddd;
+text-shadow: 0px 4px 4px #dddddd;
+font-family: 'MedusaGothic_D';
+color: #ccc;
+text-align: center;
+letter-spacing: 1px;
+}
+
+.lbl-ctgryhdr a:link,
+.lbl-ctgryhdr a:visited,
+.lbl-ctgryhdr a:active {
+background: transparent;
+padding: 0 15px;
+position: relative;
+z-index: 1;
+color: #CCC;
+text-decoration: none;
+-webkit-transition: 1.25s;
+-moz-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
+
+.lbl-ctgryhdr a:hover {
+text-decoration: none;
+color: #ff9c61;
+-webkit-transition: 1.25s;
+-moz-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
+
+.lbl-ctgryhdr:before {
+background: #ccc;
+content: "";
+display: block;
+height: 1px;
+position: absolute;
+top: 50%;
+width: 100%;
+opacity: 0.15;
+}
+.lbl-ctgryhdr:before { left: 0; }
+.bstats-text { display: none; }
+
+.titlemedium {
+color: #ccc;
+padding: 2px 6px;
+margin: 0px;
+background-color: rgba(204, 204, 204, .1);
+text-transform: uppercase;
+}
+
+.titlemedium  a:link, .titlemedium  a:visited, .titlemedium  a:active  {
+text-decoration: none;
+color: #ccc;
+}
