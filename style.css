@@ -1722,25 +1722,3 @@ opacity: 1;
 -o-transition: .5s;
 transition: .5s;
 }
-
-/*----------------------------------------------- *
-FONT KIT
------------------------------------------------*/
-
-@font-face {
-font-family: "MedusaGothic_D";
-src: url("/fonts/MedusaGothic_D.ttf");
-font-weight: normal;
-font-style: normal;
-}
-
-@font-face {
-font-family: "Railway_To_Hells";
-src: url("/fonts/Railway_To_Hells.ttf");
-font-weight: normal;
-font-style: normal;
-}
-
-div {
-  font-family: "MedusaGothic_D";
-}
