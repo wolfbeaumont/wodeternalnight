@@ -21,3 +21,23 @@ background-attachment: fixed;
 background-position: center;
 background-size: cover;
 }
+
+a:link, a:visited, a:active {
+text-decoration: none;
+color: #ff9c61;
+cursor: pointer;
+-webkit-transition: 1.25s;
+-mos-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
+
+a:hover {
+color: #9f494d;
+text-decoration: none;
+cursor: pointer;
+-webkit-transition: 1.25s;
+-mos-transition: 1.25s;
+-o-transition: 1.25s;
+transition: 1.25s;
+}
