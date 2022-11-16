@@ -1740,3 +1740,7 @@ src: url("/fonts/Railway_To_Hells.ttf");
 font-weight: normal;
 font-style: normal;
 }
+
+div {
+  font-family: "MedusaGothic_D";
+}
