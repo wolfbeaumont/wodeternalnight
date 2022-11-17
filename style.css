@@ -35,7 +35,7 @@ a:hover {
 	transition: 1.25s;
 }
 table td{
-	font-size:8px;
+	font-size:16px;
 }
 /*----------------------------------------------- * PAGINATION -----------------------------------------------*/
 .pagination .pagination_current, .pagination a {
