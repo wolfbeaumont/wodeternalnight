@@ -42,7 +42,7 @@ cursor: pointer;
 transition: 1.25s;
 }
 
-td{
+table td{
     font-size:12px;
 }
 /*----------------------------------------------- *
