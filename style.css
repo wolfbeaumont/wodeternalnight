@@ -42,8 +42,8 @@ cursor: pointer;
 transition: 1.25s;
 }
 
-td {
-  font-size: 24px;
+table td{
+    font-size:24px;
 }
 /*----------------------------------------------- *
 PAGINATION
